@@ -323,7 +323,7 @@ the ``SDL_GAMECONTROLLERCONFIG`` environment variable before running Godot:
  .. code-tab:: bash Linux/macOS
 
     export SDL_GAMECONTROLLERCONFIG="your:mapping:here"
-    ./path/to/godot.x86_64
+    /path/to/godot.x86_64
 
  .. code-tab:: bat Windows (cmd)
 
